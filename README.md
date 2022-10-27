@@ -10,7 +10,7 @@ It is developed within the framework of the OpenREiD project (Integral software 
 - [How to use](#id2)
   - [Measurements](#id3)
     - [Definition and creation of meters](#id4)
-    - [Generate metrics from OpenDSS results](#id5)
+    - [Generate measurements from OpenDSS results](#id5)
   - [Run the state estimation algorithm](#id6)
   - [Sample tests](#id7)
 - [License](#id8)
@@ -133,7 +133,7 @@ The description of the identifiers that can be modified is detailed in tables 4,
 
 <div id='id5' />
 
-#### Generate metrics from OpenDSS results
+#### Generate measurements from OpenDSS results
 
 ##### Initial measurements with uncertainty of measurement error
 
